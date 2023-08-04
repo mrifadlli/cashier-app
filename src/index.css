@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: 'Public Sans',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar {
+  background-color: #22668a;
+}
+
+.btn-success {
+  background-color: #22668a;
+}
+
+.display-totalBayar {
+  text-align: left;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.btn-byr {
+  background-color: #22668a;
+  color: white;
+
+}
+
+.jarak {
+  margin-right: 12px;
+  margin-left: 59px;
+}
+
+.display-harga {
+  text-align: right;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.hvr:hover {
+  opacity: 0.5;
+}
+
+.btn-details {
+  color: black;
+  background-color: green;
+}
+
+.ttl {
+  float: right;
+}
+
+.category-active {
+  background-color: #22668a;
+  color: white;
+}
+
+.slctd:hover {
+  opacity: 0.5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

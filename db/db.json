@@ -1,0 +1,378 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Makanan"
+    },
+    {
+      "id": 2,
+      "nama": "Minuman"
+    },
+    {
+      "id": 3,
+      "nama": "Camilan"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "k-01",
+      "nama": "Sate ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "k-02",
+      "nama": "Bakso mercon",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "bakso-mercon.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "k-03",
+      "nama": "Mie ayam yamin",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "mie-ayam-yamin.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "k-04",
+      "nama": "Tongseng kambing",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "tongseng-kambing.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "k-05",
+      "nama": "Soto betawi",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "soto-betawi.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "k-06",
+      "nama": "Sop iga",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "sop-iga.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "k-07",
+      "nama": "Beef steak",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "beef-steak.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "k-08",
+      "nama": "Nasi goreng",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "k-09",
+      "nama": "Nasi rendang",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "nasi-rendang.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "k-10",
+      "nama": "Gado-gado",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "gado-gado.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "m-01",
+      "nama": "Es jeruk",
+      "harga": 6000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "m-02",
+      "nama": "Es teh manis",
+      "harga": 4000,
+      "is_ready": true,
+      "gambar": "es-teh-manis.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "m-03",
+      "nama": "Es kopi",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "es-kopi.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "m-04",
+      "nama": "Lava ice",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "lava-ice.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "m-05",
+      "nama": "Es kopyor",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "es-kopyor.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "m-06",
+      "nama": "Es kelapa",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "es-kelapa.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "c-01",
+      "nama": "Cireng goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "cireng-goreng.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 18,
+      "kode": "c-02",
+      "nama": "Choco pancake",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "pancake-choco.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 19,
+      "kode": "c-03",
+      "nama": "Kentang goreng",
+      "harga": 6000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 20,
+      "kode": "c-04",
+      "nama": "Dimsum",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "dimsum.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 21,
+      "kode": "c-5",
+      "nama": "Sosis Bakar",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "sosis-bakar.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 22,
+      "kode": "c-06",
+      "nama": "Fish roll",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "fish-roll.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 23,
+      "kode": "c-07",
+      "nama": "Rolade",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "rolade.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Camilan"
+      }
+    }
+  ],
+  "keranjang": [
+    {
+      "jumlah": 1,
+      "totalHarga": 9000,
+      "products": {
+        "id": 3,
+        "kode": "k-03",
+        "nama": "Mie ayam yamin",
+        "harga": 9000,
+        "is_ready": true,
+        "gambar": "mie-ayam-yamin.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 1
+    }
+  ],
+  "transaksi": [
+    {
+      "totalHarga": 13000,
+      "menu": [
+        {
+          "jumlah": 1,
+          "totalHarga": 13000,
+          "products": {
+            "id": 4,
+            "kode": "k-04",
+            "nama": "Tongseng kambing",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "tongseng-kambing.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "totalHarga": 52000,
+      "menu": [
+        {
+          "jumlah": 2,
+          "totalHarga": 32000,
+          "products": {
+            "id": 1,
+            "kode": "k-01",
+            "nama": "Sate ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "totalHarga": 20000,
+          "products": {
+            "id": 2,
+            "kode": "k-02",
+            "nama": "Bakso mercon",
+            "harga": 20000,
+            "is_ready": true,
+            "gambar": "bakso-mercon.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
